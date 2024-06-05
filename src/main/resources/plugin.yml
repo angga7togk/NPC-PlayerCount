@@ -1,0 +1,8 @@
+name: NPC-Query
+main: angga7togk.npcquery.NPCQuery
+version: ${project.version}
+author: Angga7Togk
+description: NPC-Query plugin allows to get other server information
+
+depend:
+  - NPC

@@ -1,0 +1,20 @@
+query:
+  format-online: "§aOnline: §b%players%§f/§e%max-players%"
+  format-offline: "§cServer Offline!"
+  schedule:
+    update: 30 # second
+    async: true # enable this if server lagging
+
+# Information List and tag
+# %game-name%" => Server Game Name (Minecraft Bedrock)
+# %host-name%" => Host Name / Motd
+# %protocol%" => Server Protocol
+# %version%" => Server Version
+# %players%" => Online Player Count
+# %max-players%" => Max Player Count
+# %map%" => Map
+# %game-mode%" => Server Game Mode
+# %nitendo-limited%" => Nitendo Limited
+# %ip-v4-port%" => Server Ip v4 Port
+# %ip-v6-port%" => Server Ip v6 Port
+# %extra%" => Extra
